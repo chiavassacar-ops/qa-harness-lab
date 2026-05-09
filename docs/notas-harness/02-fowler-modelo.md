@@ -13,9 +13,7 @@
 
 ## Feedforward vs Feedback
 
-"Feedforward son controles que actúan ANTES de que el agente actúe, intentando que el output salga bien al primer intento (ej: reglas, plantillas, conocimiento previo).
-Feedback son controles que actúan DESPUÉS, evaluando lo que el agente produjo y permitiéndole corregir (ej: tests, code review, validaciones).
-Sin feedforward, el agente improvisa cada vez. Sin feedback, no aprende si lo hizo bien."
+"Anticiparse o retroalimentación"
 
 ## Computational vs Inferential
 
