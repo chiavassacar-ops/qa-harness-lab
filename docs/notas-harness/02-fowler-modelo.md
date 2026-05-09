@@ -13,7 +13,10 @@
 
 ## Feedforward vs Feedback
 
-"Anticiparse o retroalimentación"
+Feedforward: anticiparse a la acción del agente dándole contexto y reglas 
+Feedback: despúes de la acción del agente y evalúa el resultadao
+si tengo solo feedforwar no tengo aseguramiento de la calidad
+Si tengo solo feedback freno la salida a producción porqu eme lleno de errores
 
 ## Computational vs Inferential
 
